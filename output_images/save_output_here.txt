@@ -1,0 +1,8 @@
+Please save your output images to this folder and include a description in your README of what each image shows.
+
+output_images/1.camera_calibration_Output :The images on the left are the raw images and on the right are with corners for camera calibration
+output_images/2.Road_images_Output : The images on the left are the raw images and on the right are the undistorted road images after camera calibration
+output_images/3.Undistorted_Chess_board_images_Output:The images on the left are the raw images and on the right are the undistorted chess board images after camera calibration.
+output_images/4.Undistored_Warped_Output:The images on the left are the Undistored images and on the right are the undistorted & warped images
+output_images/5.color_gradient_bin_threshold_Output:Images to explore different color spaces ,combined and combined Gradient threshold
+output_images/6.lane_color_Output : Left image is polynomial fit to lane line on warped image and Right Image is Color Lane between Polynomials with vechicle position and radius of curvature on unwarped road image
